@@ -1,8 +1,8 @@
 ---
-name: common-resources
-description: 所有技能共享的公共资源、配置、模板
+name: skill-common
+description: 所有技能共享的公共资源、配置、模板库
 category: 基础资源
-tags: []
+tags: ["公共资源", "模板", "配置"]
 version: 1.0.0
 author: OpenClaw Community
 minimum_openclaw_version: 1.0.0
@@ -11,9 +11,9 @@ dependencies: []
 permissions: []
 ---
 
-# 公共资源库
+# 技能公共资源库
 ## 描述
-所有技能共享的公共资源、配置、模板
+所有技能共享的公共资源、配置、模板库，包含统一的图片资源、文档模板、配置规范、样式标准。
 
 ## 触发条件
 请填写技能触发条件。

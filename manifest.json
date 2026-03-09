@@ -1,11 +1,11 @@
 {
-  "id": "common-resources",
-  "name": "公共资源库",
+  "id": "skill-common",
+  "name": "技能公共资源库",
   "version": "1.0.0",
-  "description": "所有技能共享的公共资源、配置、模板",
+  "description": "所有技能共享的公共资源、配置、模板库",
   "author": "OpenClaw社区",
-  "categories": ["基础资源"],
-  "keywords": [],
+  "categories": ["基础资源", "公共库"],
+  "keywords": ["common", "resources", "templates", "公共资源"],
   "requirements": {
     "openclaw": ">=1.0.0",
     "node": ">=16.0.0"
@@ -16,6 +16,6 @@
       "npm install"
     ]
   },
-  "homepage": "https://github.com/evcgs/common-resources",
-  "repository": "https://github.com/evcgs/common-resources.git"
+  "homepage": "https://github.com/evcgs/skill-common",
+  "repository": "https://github.com/evcgs/skill-common.git"
 }
