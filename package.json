@@ -1,0 +1,12 @@
+{
+  "name": "common-resources",
+  "version": "1.0.0",
+  "description": "所有技能共享的公共资源、配置、模板",
+  "main": "scripts/main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "OpenClaw Community",
+  "license": "MIT"
+}

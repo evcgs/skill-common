@@ -1,0 +1,12 @@
+{
+  "testCases": [
+    {
+      "name": "基础功能测试",
+      "input": "",
+      "expectedOutput": {
+        "success": true,
+        "contains": []
+      }
+    }
+  ]
+}
